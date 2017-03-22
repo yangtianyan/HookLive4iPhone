@@ -1,0 +1,10 @@
+Package: com.yourcompany.ioslive4iphone
+Name: iosLive4iPhone
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yty
+Author: yty
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 72
